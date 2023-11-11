@@ -1,16 +1,13 @@
 <h1 align="center">Hola 👋, soy Eswin Stuard Poroj Castro</h1><h3 align="center">
 Soy Estudiante de Ingeniería en Sistemas de la Información y Ciencias de la Computación, voy en el tercer semestre. Soy de Guatemala</h3>
 
-- 🌱 Estoy estudiando: **La ruta de Desarrollo de Software en Platzi**- 🎓 👨 Estudiando en la Universidad: **
+- 🌱 Estoy estudiando: **La ruta de Desarrollo de Software en Platzi**
+- 🎓 👨 Estudiando en la Universidad: **Ing. de Sistemas | 3er. Semestre**
+- Cómo contactarme **estuardoporoj49@gmail.com**
+- Dato Curioso **Me gradué de una escuela Cívico-Militar ⚡**
 
-Ing. de Sistemas | 3er. Semestre**- Cómo contactarme **estuardoporoj49@gmail.com**- Dato Curioso **Me gradué de una escuela Cívico-Militar ⚡**
-
-
-
-<
-
-h3 align="left">Conéctate conmigo:</h3><p align="left">
-
+<h3 align="left">Conéctate conmigo:</h3><p align="left">
+  
 <a href="https://twitter.com/@porojcastro" target="blank"><img align="center" src=" 📫 https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@porojcastro" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/338248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="338248" height="30" width="40" />
 </a>
