@@ -6,9 +6,9 @@ Soy Estudiante de Ingeniería en Sistemas de la Información y Ciencias de la Co
 - Cómo contactarme **estuardoporoj49@gmail.com**
 - Dato Curioso **Me gradué de una escuela Cívico-Militar ⚡**
 
-<h3 align="left">Conéctate conmigo:</h3><p align="left">
-  
-<a href="https://twitter.com/@porojcastro" target="blank"><img align="center" src=" 📫 https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@porojcastro" height="30" width="40" /></a>
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">  
+<a href="https://twitter.com/@porojcastro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@porojcastro" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/338248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="338248" height="30" width="40" />
 </a>
 <a href="https://fb.com/estuardo.poroj.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="estuardo.poroj.37" height="30" width="40" /></a>
