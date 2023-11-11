@@ -2,8 +2,8 @@
 <h3 align="center">Soy Estudiante de Ingeniería en Sistemas de la Información y Ciencias de la Computación, voy en el tercer semestre. Soy de Guatemala</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eswin-poroj" alt="eswin-poroj" /></a> </p>
 
-- 🌱 Estoy estudiando: **La ruta de Desarrollo de Software en Platzi**- 📫 Cómo contactarme **estuardoporoj49@gmail.com**
-
+- 🌱 Estoy estudiando: **La ruta de Desarrollo de Software en Platzi**
+- 📫 Cómo contactarme **estuardoporoj49@gmail.com**
 - ⚡ Dato Curioso **Me gradué de una escuela Cívico-Militar**<h3 align="left">Conéctate conmigo:</h3>
 
 <p align="left">
