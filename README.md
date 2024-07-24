@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">¡Hola Mundo!!! <br>Soy un joven apasionado por la tecnología, por el cual decidí estudiar una Ing. en Sistemas para llegar a obtener más conocimiento sobre este campo. Además de la carrera universitaria, me gusta estar en cursos de desarrollo. Muchas de las tareas que aprendo lo subo a mi cuenta de Git Hub. En otras estoy como colaborador en repositorios de algunos de mis compañeros de clases.<br><br>¡Espero y encuentres algo interesante en mi cuenta, Siempre será un gusto conocer a nuevas personas con las que compartimos intereses!<br><br>"No te compares con nadie en este mundo... si lo haces, te estás insultando a ti mismo". - Bill Gates</p>
+<p align="left">¡Hola Mundo!!! <br>Soy un joven apasionado por la tecnología, por el cual decidí estudiar una Ing. en Sistemas para llegar a obtener más conocimiento sobre este campo. Además de la carrera universitaria, me gusta estar en cursos de desarrollo. Muchas de las tareas que aprendo lo subo a mi cuenta de Git Hub. En otras estoy como colaborador en repositorios de algunos de mis compañeros de clases.<br><br>¡Espero y encuentres algo interesante en mi cuenta. Siempre será un gusto conocer a nuevas personas con las que compartimos intereses!<br><br>"No te compares con nadie en este mundo... si lo haces, te estás insultando a ti mismo". - Bill Gates</p>
 
 ###
 
