@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hello! My name is Eswin and I am a student of Information Systems Engineering and Computer Science, from the "Universidad Mariano Gálvez de Guatemala"</h2>
 
 ###
 
@@ -75,6 +75,6 @@
   </a>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eswin-poroj&show_icons=true&locale=en&layout=compact" alt="eswin-poroj" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=eswin-poroj&show_icons=true&locale=en&layout=compact" alt="eswin-poroj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eswin-poroj&" alt="eswin-poroj" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=eswin-poroj&" alt="eswin-poroj" /></p>
