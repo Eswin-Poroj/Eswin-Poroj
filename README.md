@@ -6,13 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eswin-Poroj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eswin-Poroj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dzOWhxeTFocDdmMGd3Z3B4enNnMjU2YzdiN2RqZXlvbTYwMzhzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 
 ###
@@ -84,6 +77,16 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eswin-Poroj&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eswin-Poroj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Eswin-Poroj&locale=es&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Eswin-Poroj&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eswin-Poroj&radius=16&theme=elegant&area=true&order=5&custom_title=Gr%C3%A1fica%20de%20Contribuciones&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Eswin-Poroj/Eswin-Poroj/output/snake.svg" alt="Snake animation" />
@@ -95,9 +98,3 @@
 </div>
 
 ###
-
-<br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eswin-poroj&show_icons=true&locale=en&layout=compact" alt="eswin-poroj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eswin-poroj&" alt="eswin-poroj" /></p>
